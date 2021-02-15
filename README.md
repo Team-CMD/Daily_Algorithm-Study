@@ -100,3 +100,4 @@ ___
 ## 🏆 Personal Achievement  
 [![Solved.ac Jh9892](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09)](https://solved.ac/jhchoi09/)  
 [![Solved.ac seunghyune99](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyune99)](https://solved.ac/seunghyune99/)  
+[![Solved.ac Jh9892](http://mazassumnida.wtf/api/v2/generate_badge?boj=choihs0924)](https://solved.ac/choihs0924/)  
