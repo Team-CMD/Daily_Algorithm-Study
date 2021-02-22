@@ -84,6 +84,9 @@ ___
 - 2021-02-15
     - 백준 알고리즘 **'단계별 문제풀이' Assignment02 점검 및 설명**
     - 참여자 : 전원(6명)    
+- 2021-02-16
+    - 백준 알고리즘 **'단계별 문제풀이' 11. 브루트 포스 알고리즘 설명 및 문제풀이**
+    - 참여자 : 전원(6명) 
 ___  
 
 ## 🎫 Participants
@@ -94,3 +97,13 @@ ___
 [Dejong1706](https://github.com/Dejong1706), 
 [CHO_MJ](https://github.com/cood5199), 
 [HS980924](https://github.com/HS98094) in `CMD`
+
+___  
+
+## 🏆 Personal Achievement  
+[![Solved.ac Jh9892](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09)](https://solved.ac/jhchoi09/)
+[![Solved.ac seunghyune99](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyune99)](https://solved.ac/seunghyune99/)  
+[![Solved.ac choihs0924](http://mazassumnida.wtf/api/v2/generate_badge?boj=choihs0924)](https://solved.ac/choihs0924/)
+[![Solved.ac ppk0320](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppk0320)](https://solved.ac/ppk0320/)  
+[![Solved.ac lkh04231015](http://mazassumnida.wtf/api/v2/generate_badge?boj=lkh04231015)](https://solved.ac/lkh04231015/)
+[![Solved.ac cood5199](http://mazassumnida.wtf/api/v2/generate_badge?boj=cood5199)](https://solved.ac/cood5199/)  
