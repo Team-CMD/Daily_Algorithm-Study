@@ -1,17 +1,20 @@
-N, M = map(int, input().split())
+n, m = map(int, input().split())
+check_list = [False]*n
+res = []
 
-stack = []
-def sequenced():
-    if len(stack) == M:
-        print(' '.join(map(str, stack)))
+def backTracking(depth):
+    if depth == m:
+        print(' '.join([str(x) for x in res]))
         return
-
-    for i in range(1, N+1):
-        if i in stack:
+    for i in range(n):
+        if check_list[i]:
             continue
-        stack.append(i)
-        if i < stack[0]:
-            sequenced()
-            stack.pop()
+        check_list[i] = True
+        res.append(i+1)
+        backTracking(depth+1)
+        res.pop()
+        for j in range(i+1, n):
+            check_list[j] = False
 
-sequenced()
+if __name__ == '__main__':
+    backTracking(0)
