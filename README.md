@@ -1,4 +1,6 @@
-# Daily_Algorithm
+<div>
+    <img src=""/>
+</div>
 
 ## 🎯 What is this repo?
 해당 레포는 `CMD`의 **Daily Algorithm**을 진행한 이후 자료를 정리하기 위해 만들어진 공간입니다.  
