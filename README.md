@@ -1,5 +1,5 @@
 <div>
-    <img src=""/>
+    <img src="./assets/logo.PNG"/>
 </div>
 
 ## 🎯 What is this repo?

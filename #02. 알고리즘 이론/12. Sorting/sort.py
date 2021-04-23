@@ -81,6 +81,5 @@ for i in range(int(input())):
 
 for i in range(len(array)):
     array[i], array[array.index(min(array[i:]))] = array[array.index(min(array[i:]))], array[i]
-    print(i, array)
 
 print(array)
