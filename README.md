@@ -51,9 +51,9 @@ ___
 |[HS980924](https://github.com/HS98094)|python, algorithm|[![Solved.ac choihs0924](http://mazassumnida.wtf/api/v2/generate_badge?boj=choihs0924)](https://solved.ac/choihs0924/)| CMD|
 |[CHO_MJ](https://github.com/cood5199)|python|[![Solved.ac cood5199](http://mazassumnida.wtf/api/v2/generate_badge?boj=cood5199)](https://solved.ac/cood5199/)| CMD |
 |[Dejong1706](https://github.com/Dejong1706)|python, web|[![Solved.ac ppk0320](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppk0320)](https://solved.ac/ppk0320/)| CMD |
-|[Sinbak](https://github.com/sinbak) | python, web | | CMD |
-|[dbswp](https://github.com/dbswp)| python | | CMD |
-|[sangyeop910](https://github.com/sangyeop910)| python || CMD |
-|[skm0619](https://github.com/skm0619)| python || CMD |
+|[Sinbak](https://github.com/sinbak) | python, web | [![Solved.ac usk750](http://mazassumnida.wtf/api/v2/generate_badge?boj=usk750)](https://solved.ac/usk750/) | CMD |
+|[dbswp](https://github.com/dbswp)| python | [![Solved.ac dbswp123](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswp123)](https://solved.ac/dbswp123/) | CMD |
+|[sangyeop910](https://github.com/sangyeop910)| python | [![Solved.ac tkd6395](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkd6395)](https://solved.ac/tkd6395/) | CMD |
+|[skm0619](https://github.com/skm0619)| python | [![Solved.ac sin1509](http://mazassumnida.wtf/api/v2/generate_badge?boj=sin1509)](https://solved.ac/sin1509/) | CMD |
 
 
